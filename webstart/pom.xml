@@ -276,13 +276,13 @@
 			</dependency>
 
 			<dependency>
-				<groupId>org.codehaus.mojo</groupId>
+				<groupId>com.barchart.webstart</groupId>
 				<artifactId>keytool-api-1.5</artifactId>
 				<version>${keytoolVersion}</version>
 			</dependency>
 
 			<dependency>
-				<groupId>org.codehaus.mojo</groupId>
+				<groupId>com.barchart.webstart</groupId>
 				<artifactId>keytool-api-1.6</artifactId>
 				<version>${keytoolVersion}</version>
 			</dependency>
